@@ -1,0 +1,15 @@
+{
+  "name": "flappy-bird",
+  "version": "0.0.0",
+  "author": "Yurixander R. <101931215+yurixander@users.noreply.github.com>",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "5.0.4",
+    "vite": "^4.3.8",
+    "vite-plugin-singlefile": "^0.13.5"
+  }
+}
