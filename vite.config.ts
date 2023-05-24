@@ -4,7 +4,7 @@ import {viteSingleFile} from "vite-plugin-singlefile"
 export default defineConfig({
   plugins: [viteSingleFile()],
   root: "./",
-  publicDir: "public",
+  publicDir: "assets",
   build: {
     outDir: "dist"
   },
